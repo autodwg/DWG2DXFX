@@ -36,7 +36,7 @@ regsvr32 ActiveConverter64.dll
 ```
 #### Step 2: Test with Example VBScript
 Use the provided sample script test.vbs in the Examples folder to verify functionality.
-Ensure the script executes without errors and generates the expected SVG output.
+Ensure the script executes without errors and generates the expected DWG/DXF output.
 
 **Sample Code**
 
