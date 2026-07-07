@@ -17,7 +17,7 @@ DWG2DXFX allows you to convert drawings between DXF and DWG, and AutoCAD file ve
 - Support DWG and DXF in versions from R9 to 2027
 
 ### Free Trial Download Link
-
+https://github.com/autodwg/DWG2DXFX/releases/download/v1.8.5/DWG2DXFX-v1.8.5.zip
 
 ## User Guide
 ### Getting Started
