@@ -1,11 +1,7 @@
 # DWG2DXFX
 **AutoDWG DWG2DXF Component**
 
-## License Notice
-1. Free trial / non-commercial use: GNU LGPLv3
-2. Commercial production use, closed-source integration requires purchasing our commercial license.
 
-Contact info@autodwg.com for commercial authorization.
 
 ## AutoDWG DWG DXF Control Component
 DWG2DXFX allows you to convert drawings between DXF and DWG, and AutoCAD file version conversions, no AutoCAD required.
@@ -69,3 +65,8 @@ MsgBox "Complete!"
 '9	autocad 2007
 'Notice: AutoCAD R9, R10 and R11 are only effective when the output file format is DXF.
 ```
+## License Notice
+1. Free trial / non-commercial use: GNU LGPL V2.1
+2. Commercial production use, closed-source integration requires purchasing our commercial license.
+
+Contact info@autodwg.com for commercial authorization.
