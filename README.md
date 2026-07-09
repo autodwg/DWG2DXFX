@@ -1,8 +1,3 @@
-# DWG2DXFX
-**AutoDWG DWG2DXF Component**
-
-
-
 ## AutoDWG DWG DXF Control Component
 DWG2DXFX allows you to convert drawings between DXF and DWG, and AutoCAD file version conversions, no AutoCAD required.
 
